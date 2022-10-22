@@ -7,4 +7,4 @@ Calculate n choose k.
 ```
 ***Screenshots of running program in the console:***
 
-![n_choose_k](n_choose_k.jpg)
+![n_choose_k](docs/n_choose_k.jpg)
