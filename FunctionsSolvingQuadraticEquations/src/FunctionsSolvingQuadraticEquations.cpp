@@ -9,7 +9,7 @@
 #include <cmath>
 using namespace std;
 
-//Constants to represent type of solutions to an equation
+//Constants to represent type of solutions to an equation.
 const int NO_SOLUTION = 0;
 const int ONE_REAL_SOLUTION = 1;
 const int TWO_REAL_SOLUTION = 2;
