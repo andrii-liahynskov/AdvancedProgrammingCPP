@@ -1,6 +1,6 @@
 ## In this repository I publish my solutions to the tasks and exercises of the edX Course: Advanced Programming in C++.
 
-Web-site of the course: [Advanced Programming in C++](ttps://learning.edx.org/course/course-v1:NYUx+CPP.PRG.2+3T2020/home)
+Web-site of the course: [Advanced Programming in C++](https://learning.edx.org/course/course-v1:NYUx+CPP.PRG.2+3T2020/home)
 
 Authors: [NYUx CPP.PRG.2](https://www.nyu.edu)
 
