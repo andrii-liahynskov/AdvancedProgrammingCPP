@@ -34,6 +34,8 @@ int linear(double a, double b, double& outX);
 int main()
 {
 	double a, b, c, x1, x2;
+	x1 = 0.0; 
+	x2 = 0.0;
 
 	cout << "Please enter coefficients of quadratic equation:\n";
 	cin >> a >> b >> c;
